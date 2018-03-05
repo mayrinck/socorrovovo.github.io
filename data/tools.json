@@ -23,6 +23,7 @@
       ],
       "tags":[
         "images",
+        "imagens",
         "textures",
       ]
     },
@@ -35,6 +36,7 @@
       ],
       "tags":[
         "images",
+        "imagens",
         "icons"
       ]
     },
@@ -47,13 +49,14 @@
       ],
       "tags":[
         "images",
+        "imagens",
         "landscapes"
       ]
     },
     {
       "name": "Flat UI Colors",
       "site": "http://flatuicolors.com/",
-      "about": "Easy Color Pallette from Flat UI Theme.",
+      "about": "Paletas de cores criadas com base no Flat Design.",
       "categories": [
         "design"
       ],
@@ -71,13 +74,14 @@
       ],
       "tags":[
         "colors",
+        "tool",
         "flat"
       ]
     },
     {
       "name": "Devmind.io",
       "site": "https://devmind.io/",
-      "about": "An brazilian cross-platform cloud based IDE to develop websites and applications.",
+      "about": "IDE em nuvem para desenvolvimento de aplicativos e websites que conecta e edita conteudo de serviços como Github e Gitlab. 🇧🇷",
       "categories": [
         "produtividade"
       ],
@@ -85,14 +89,17 @@
         "devmind",
         "cloud",
         "editor",
+        "github",
+        "gitlab",
         "code",
+        "tool",
         "ide"
       ]
     },
     {
       "name": "Codepen",
       "site": "http://codepen.io/",
-      "about": "Show case of advanced techniques with editable source code.",
+      "about": "Showcase para criadores de código com live-preview.",
       "categories": [
         "produtividade"
       ],
@@ -100,6 +107,7 @@
         "cloud",
         "editor",
         "code",
+        "tool",
         "ide"
       ]
     },
@@ -114,7 +122,8 @@
         "cloud",
         "editor",
         "code",
-        "ide"
+        "ide",
+        "tool"
       ]
     },
     {
@@ -132,7 +141,7 @@
     {
       "name": "Freepik",
       "site": "http://br.freepik.com/",
-      "about": "Site para download de imagens e vetores",
+      "about": "Site para download de imagens e vetores.",
       "categories": [
         "design"
       ],
@@ -144,12 +153,13 @@
     {
       "name": "Pexels",
       "site": "http://www.pexels.com",
-      "about": "Pexels is a royalty-free high quality image repository.",
+      "about": "Repositório de imagens totalmente royalty-free.",
       "categories": [
         "design"
       ],
       "tags":[
         "images",
+        "imagens",
         "landscapes"
       ]
     },
@@ -170,13 +180,39 @@
     {
       "name": "CMM - Skyboxes",
       "site": "http://www.custommapmakers.org/skyboxes.php",
-      "about": "Page with plenty of royalty-free high quality skybox textures for 3D models.",
+      "about": "Pagina com varias texturas de Skybox totalmente gratuitas para usar.",
       "categories": [
         "outros"
       ],
       "tags":[
         "textures",
         "skybox"
+      ]
+    },
+    {
+      "name": "FreePhotos",
+      "site": "https://freephotos.cc/pt",
+      "about": "Repositório de imagens royalty-free com editor interno de imagens.",
+      "categories": [
+        "design"
+      ],
+      "tags":[
+        "landscape",
+        "images",
+        "imagens"
+      ]
+    },
+    {
+      "name": "Gravit Designer",
+      "site": "https://designer.gravit.io/",
+      "about": "Editor vetorial online, multiplataforma e gratuito.",
+      "categories": [
+        "design", "produtividade"
+      ],
+      "tags":[
+        "editor",
+        "vectors",
+        "tool"
       ]
     },
     {
@@ -188,6 +224,7 @@
       ],
       "tags":[
         "c9",
+        "tool",
         "code",
         "cloud",
         "editor",
