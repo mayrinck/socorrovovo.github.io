@@ -97,6 +97,19 @@
       ]
     },
     {
+      "name": "Pixlr Photo Editor",
+      "site": "https://pixlr.com/editor/",
+      "about": "Robusto editor de imagens online e gratuito. Requer Flash.",
+      "categories": [
+        "design", "produtividade"
+      ],
+      "tags":[
+        "editor",
+        "images",
+        "tool"
+      ]
+    },
+    {
       "name": "Codepen",
       "site": "http://codepen.io/",
       "about": "Showcase para criadores de código com live-preview.",
